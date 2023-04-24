@@ -1,5 +1,5 @@
 homepage: "https://www.peakmetrics.net"
 documentation: "https://www.peakmetrics.net/documentation"
 versions:
-  - sha: 6794b5048e3b499d7e713bf32c372013747364cd
+  - sha: 48523328766760e7ee1155c0881525f79cecc6b4
     changeNotes: Initial release.
